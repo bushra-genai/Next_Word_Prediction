@@ -26,3 +26,7 @@ Results
 Trains a GRU model on simple toy sentences.
 Predicts the next word given a sequence.
 Plots hidden state activations across timesteps.
+
+Author
+Bushra Sarwar
+📧 bushrasarwar589@gmail.com
